@@ -1,0 +1,19 @@
+.pk-transfer-post-type span{
+    padding: 4px 5px;
+    display: none;
+}
+.pk-transfer-post-type span.loading{
+    display: inline-block;
+    -webkit-animation: pk_spin 4s linear infinite;
+    -moz-animation: pk_spin 4s linear infinite;
+    animation: pk_spin 4s linear infinite;
+}
+.pk-saved-data{
+    margin-top: 0;
+    padding-top: 0;
+    color: #22b12d;
+}
+
+@-moz-keyframes pk_spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes pk_spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes pk_spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }

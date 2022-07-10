@@ -1,0 +1,12 @@
+.pk-unyson-notification {
+    padding: 15px;
+}
+.pk-unyson-notification a,
+.pk-unyson-notification button:before,
+.pk-unyson-notification button:hover:before {
+  color: #fff;
+}
+.pk-unyson-notification {
+  background-color: #dc3232;
+  border: 1px solid #dc3232;
+}

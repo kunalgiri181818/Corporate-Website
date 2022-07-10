@@ -1,0 +1,54 @@
+2021-11-19T09:44:56+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in C:\laragon\www\seosight\wp-content\themes\seosight\portfolio-kit\loop-classic.php:13
+Stack trace:
+#0 C:\laragon\www\seosight\wp-content\plugins\portfolio-kit\includes\classes\class-pk-frontend.php(428): include()
+#1 C:\laragon\www\seosight\wp-includes\shortcodes.php(356): PortfolioKitFrontend->pk_shortcode(Array, '', 'portfolio_kit')
+#2 [internal function]: do_shortcode_tag(Array)
+#3 C:\laragon\www\seosight\wp-includes\shortcodes.php(228): preg_replace_callback('/\\[(\\[?)(portfo...', 'do_shortcode_ta...', '[portfolio_kit ...')
+#4 C:\laragon\www\seosight\wp-content\plugins\portfolio-kit\includes\classes\class-pk-frontend.php(1071): do_shortcode('[portfolio_kit ...')
+#5 C:\laragon\www\seosight\wp-includes\class-wp-block.php(221): PortfolioKitFrontend->pk_gutenberg_block_output(Array, '', Object(WP_Block))
+#6 C:\laragon\www\seosight\wp-includes\blocks.php(868): WP_Block->render()
+#7 C:\laragon\www\seosight\wp-includes\blocks.php(906): render_block(Array)
+#8 C:\laragon\www\seosight\wp-includes\class-wp-hook.php(303): do_blocks('<!-- wp:heading...')
+#9 C:\laragon\www\seosight\wp-includes\plugin.php(189): WP_Hook->apply_filters('<!-- wp:heading...', Array)
+#10 C:\laragon\www\seosight\wp-includes\post-template.php(253): apply_filters('the_content', '<!-- wp:heading...')
+#11 C:\laragon\www\seosight\wp-content\themes\seosight\template-parts\content-page.php(26): the_content()
+#12 C:\laragon\www\seosight\wp-includes\template.php(772): require('C:\\laragon\\www\\...')
+#13 C:\laragon\www\seosight\wp-includes\template.php(716): load_template('C:\\laragon\\www\\...', false, Array)
+#14 C:\laragon\www\seosight\wp-includes\general-template.php(204): locate_template(Array, true, false, Array)
+#15 C:\laragon\www\seosight\wp-content\themes\seosight\page.php(31): get_template_part('template-parts/...', 'page')
+#16 C:\laragon\www\seosight\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#17 C:\laragon\www\seosight\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#18 C:\laragon\www\seosight\index.php(17): require('C:\\laragon\\www\\...')
+#19 {main}
+  thrown in C:\laragon\www\seosight\wp-content\themes\seosight\portfolio-kit\loop-classic.php on line 13
+
+2021-11-19T09:49:46+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in C:\laragon\www\seosight\wp-content\themes\seosight\portfolio-kit\loop-classic.php:13
+Stack trace:
+#0 C:\laragon\www\seosight\wp-content\plugins\portfolio-kit\includes\classes\class-pk-frontend.php(487): include()
+#1 C:\laragon\www\seosight\wp-includes\class-wp-hook.php(303): PortfolioKitFrontend->pk_ajax_portfolio_get_posts_func('')
+#2 C:\laragon\www\seosight\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\laragon\www\seosight\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\laragon\www\seosight\wp-admin\admin-ajax.php(187): do_action('wp_ajax_pk_ajax...')
+#5 {main}
+  thrown in C:\laragon\www\seosight\wp-content\themes\seosight\portfolio-kit\loop-classic.php on line 13
+
+2021-11-19T09:49:50+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in C:\laragon\www\seosight\wp-content\themes\seosight\portfolio-kit\loop-classic.php:13
+Stack trace:
+#0 C:\laragon\www\seosight\wp-content\plugins\portfolio-kit\includes\classes\class-pk-frontend.php(487): include()
+#1 C:\laragon\www\seosight\wp-includes\class-wp-hook.php(303): PortfolioKitFrontend->pk_ajax_portfolio_get_posts_func('')
+#2 C:\laragon\www\seosight\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\laragon\www\seosight\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\laragon\www\seosight\wp-admin\admin-ajax.php(187): do_action('wp_ajax_pk_ajax...')
+#5 {main}
+  thrown in C:\laragon\www\seosight\wp-content\themes\seosight\portfolio-kit\loop-classic.php on line 13
+
+2021-11-19T09:49:55+00:00 CRITICAL Uncaught DivisionByZeroError: Division by zero in C:\laragon\www\seosight\wp-content\themes\seosight\portfolio-kit\loop-classic.php:13
+Stack trace:
+#0 C:\laragon\www\seosight\wp-content\plugins\portfolio-kit\includes\classes\class-pk-frontend.php(487): include()
+#1 C:\laragon\www\seosight\wp-includes\class-wp-hook.php(303): PortfolioKitFrontend->pk_ajax_portfolio_get_posts_func('')
+#2 C:\laragon\www\seosight\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 C:\laragon\www\seosight\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 C:\laragon\www\seosight\wp-admin\admin-ajax.php(187): do_action('wp_ajax_pk_ajax...')
+#5 {main}
+  thrown in C:\laragon\www\seosight\wp-content\themes\seosight\portfolio-kit\loop-classic.php on line 13
+

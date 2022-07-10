@@ -1,0 +1,713 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Portfolio Kit\n"
+"POT-Creation-Date: 2021-11-15 21:36+0200\n"
+"PO-Revision-Date: 2021-11-15 21:36+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: portfolio-kit.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/classes/class-pk-admin.php:71
+msgid "Project base"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:79
+msgid "Portfolio category base"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:87
+msgid "Portfolio tag base"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:136
+msgid "Cover Image"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:147
+msgid "Edit this item"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:164
+msgid "Project summary"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:165
+msgid "Project Gallery"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:166
+msgid "Behavior on Portfolio page"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:234
+msgid "Settings saved"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:294
+#: includes/elementor-widgets/pk-meta.php:100
+msgid "Title"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:295
+msgid "Alternative title for project"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:300
+msgid "Content text"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:305
+msgid "Logo"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:310
+msgid "Background color in post loop"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:315
+#: includes/classes/class-pk-frontend.php:636
+msgid "Thumbnail / Slider align"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:316
+#: includes/classes/class-pk-frontend.php:637
+msgid "Align project media on single page"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:318
+#: includes/classes/class-pk-frontend.php:640
+msgid "Left"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:319
+#: includes/classes/class-pk-frontend.php:641
+msgid "Center"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:320
+#: includes/classes/class-pk-frontend.php:642
+msgid "Right"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:327
+#: includes/classes/class-pk-frontend.php:732
+msgid "Section padding top"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:328
+#: includes/classes/class-pk-frontend.php:733
+msgid "Top space in px"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:333
+#: includes/classes/class-pk-frontend.php:744
+msgid "Section padding bottom"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:334
+#: includes/classes/class-pk-frontend.php:745
+msgid "Bottom space in px"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:339
+msgid "Background color in single post"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:355
+msgid "Open inner project page"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:356
+msgid "Open featured image in lightbox"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:394
+msgid "Primary portfolio page"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:395
+msgid "Select a page which center icon will be linked to"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:417
+msgid "The Kit Portfolio"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:436
+msgid "General settings"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:438
+msgid "Design settings"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:445
+msgid "Save settings"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:450
+msgid "Portfolio transfer"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:453
+msgid "Transfer from Unyson extension"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:454
+msgid "Undo the transfer action"
+msgstr ""
+
+#: includes/classes/class-pk-admin.php:457
+msgid "Start from scratch"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/classes/class-pk-elementor.php:21
+#: includes/classes/class-pk-frontend.php:519
+#: includes/elementor-widgets/pk-main.php:12
+msgid "Portfolio Kit"
+msgstr ""
+
+#: includes/classes/class-pk-fields.php:289
+msgid "Select images"
+msgstr ""
+
+#: includes/classes/class-pk-fields.php:320
+msgid "Select image"
+msgstr ""
+
+#: includes/classes/class-pk-fields.php:341
+msgid "Remove"
+msgstr ""
+
+#: includes/classes/class-pk-fields.php:342
+msgid "Select"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:139
+msgid "Portfolio"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:140
+msgid "Projects"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:148
+msgid "Add New"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:149
+#: includes/classes/class-pk-frontend.php:208
+#: includes/classes/class-pk-frontend.php:237
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:150
+msgid "Edit"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:151
+#: includes/classes/class-pk-frontend.php:206
+#: includes/classes/class-pk-frontend.php:235
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:152
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:153
+#: includes/classes/class-pk-frontend.php:203
+#: includes/classes/class-pk-frontend.php:232
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:154
+#: includes/classes/class-pk-frontend.php:155
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:156
+#: includes/classes/class-pk-frontend.php:202
+#: includes/classes/class-pk-frontend.php:230
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:157
+msgid "Project Cover Image"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:158
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:159
+#, php-format
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:162
+msgid "Create a portfolio item"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:189
+#: includes/elementor-widgets/pk-meta.php:198
+msgid "Category"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:190
+#: includes/classes/class-pk-frontend.php:1146
+#: includes/elementor-widgets/pk-main.php:70
+msgid "Categories"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:194
+msgid "Tag"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:195
+msgid "Tags"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:200
+#, php-format
+msgctxt "taxonomy general name"
+msgid "Portfolio %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:201
+#, php-format
+msgctxt "taxonomy singular name"
+msgid "Portfolio %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:204
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:205
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:207
+#: includes/classes/class-pk-frontend.php:236
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:209
+#: includes/classes/class-pk-frontend.php:238
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:231
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:239
+#, php-format
+msgid "Separate %s with commas"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:240
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:241
+#, php-format
+msgid "Choose from the most used %s"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:390
+msgid "All Projects"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:464
+msgid "Load more"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:525
+msgid "Portfolio loop"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:539
+msgid "Primary color"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:554
+msgid "Secondary color"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:566
+msgid "Loop template"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:569
+#: includes/classes/class-pk-frontend.php:1126
+#: includes/elementor-widgets/pk-main.php:42
+msgid "Classic"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:570
+#: includes/classes/class-pk-frontend.php:1127
+#: includes/elementor-widgets/pk-main.php:43
+msgid "Modern"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:571
+#: includes/classes/class-pk-frontend.php:1128
+#: includes/elementor-widgets/pk-main.php:44
+msgid "Modern button"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:583
+#: includes/classes/class-pk-frontend.php:1195
+#: includes/elementor-widgets/pk-featured-portfolio.php:59
+#: includes/elementor-widgets/pk-main.php:155
+msgid "Items per page"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:584
+#: includes/classes/class-pk-frontend.php:1196
+#: includes/elementor-widgets/pk-main.php:156
+msgid "How many portfolios show per page"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:594
+#: includes/elementor-widgets/pk-main.php:167
+msgid "Columns number"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:613
+#: includes/classes/class-pk-frontend.php:1202
+#: includes/elementor-widgets/pk-main.php:185
+msgid "Type of pages pagination"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:614
+#: includes/classes/class-pk-frontend.php:1203
+#: includes/elementor-widgets/pk-main.php:186
+msgid "Select one of pagination types"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:617
+#: includes/classes/class-pk-frontend.php:1207
+#: includes/elementor-widgets/pk-main.php:188
+msgid "Numbers"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:618
+#: includes/classes/class-pk-frontend.php:1208
+#: includes/elementor-widgets/pk-main.php:189
+msgid "Load more ajax"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:625
+msgid "Single post"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:653
+msgid "Show Like"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:654
+msgid "Heart icon with counter who liked page"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:665
+msgid "Show date?"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:666
+msgid "Show block with date of created page"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:677
+msgid "Show share icons?"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:678
+msgid "Icons with script for share post in social networks"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:698
+msgid "Share buttons"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:700
+msgid "Facebook"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:701
+msgid "Twitter"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:702
+msgid "Linkedin"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:703
+msgid "Pinterest"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:704
+msgid "Vkontakte"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:705
+msgid "Reddit"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:706
+msgid "Tumblr"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:707
+msgid "Whatsapp"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:708
+msgid "Xing"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:720
+msgid "Enable inner navigation"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:721
+msgid "Show additional navigation after portfolio"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:760
+msgid "Background color"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1085
+#: includes/classes/class-pk-frontend.php:1114
+msgid "Portfolio kit"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1122
+#: includes/elementor-widgets/pk-main.php:40
+msgid "Template"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1133
+#: includes/elementor-widgets/pk-main.php:54
+msgid "Sort panel"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1134
+#: includes/elementor-widgets/pk-main.php:55
+msgid "Panel before items with taxonomy categories"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1139
+#: includes/elementor-widgets/pk-main.php:65
+msgid "Include only"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1140
+#: includes/elementor-widgets/pk-main.php:66
+msgid "Include only posts with sort parameter"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1144
+#: includes/elementor-widgets/pk-main.php:68
+msgid "Disabled"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1145
+#: includes/elementor-widgets/pk-main.php:69
+msgid "Posts"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1151
+#: includes/elementor-widgets/pk-main.php:95
+msgid "Select posts"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1164
+#: includes/elementor-widgets/pk-main.php:116
+msgid "Select categories"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1174
+#: includes/elementor-widgets/pk-main.php:128
+msgid "Exclude selected ids"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1184
+#: includes/elementor-widgets/pk-main.php:140
+msgid "Order"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1185
+#: includes/elementor-widgets/pk-main.php:141
+msgid "Designates the ascending or descending order of items"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1189
+#: includes/elementor-widgets/pk-main.php:143
+msgid "Descending"
+msgstr ""
+
+#: includes/classes/class-pk-frontend.php:1190
+#: includes/elementor-widgets/pk-main.php:144
+msgid "Ascending"
+msgstr ""
+
+#: includes/elementor-widgets/pk-featured-portfolio.php:19
+#: includes/elementor-widgets/pk-featured-portfolio.php:38
+msgid "Featured portfolio"
+msgstr ""
+
+#: includes/elementor-widgets/pk-featured-portfolio.php:46
+msgid "Select Template"
+msgstr ""
+
+#: includes/elementor-widgets/pk-featured-portfolio.php:48
+msgid "Grid"
+msgstr ""
+
+#: includes/elementor-widgets/pk-featured-portfolio.php:49
+msgid "Slider"
+msgstr ""
+
+#: includes/elementor-widgets/pk-featured-portfolio.php:60
+msgid "Number of items displayed on one screen"
+msgstr ""
+
+#: includes/elementor-widgets/pk-featured-portfolio.php:84
+msgid "Custom class"
+msgstr ""
+
+#: includes/elementor-widgets/pk-featured-portfolio.php:85
+msgid "Enter extra custom class"
+msgstr ""
+
+#: includes/elementor-widgets/pk-featured-portfolio.php:145
+msgid "New"
+msgstr ""
+
+#: includes/elementor-widgets/pk-featured-portfolio.php:194
+#: includes/views/loop-modern-button.php:49
+msgid "More Details"
+msgstr ""
+
+#: includes/elementor-widgets/pk-main.php:32
+msgid "Portfolio Kit Settings"
+msgstr ""
+
+#: includes/elementor-widgets/pk-main.php:200
+#: includes/elementor-widgets/pk-meta.php:88
+msgid "Extra class"
+msgstr ""
+
+#: includes/elementor-widgets/pk-main.php:201
+#: includes/elementor-widgets/pk-meta.php:89
+msgid ""
+"If you wish to style a particular content element differently, please add a "
+"class name to this field and refer to it in your custom CSS file."
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:12
+#: includes/elementor-widgets/pk-meta.php:31
+msgid "Portfolio meta"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:39
+msgid "Show Date?"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:48
+msgid "Show Categories?"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:58
+#: includes/elementor-widgets/pk-meta.php:213
+msgid "Services"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:67
+msgid "Client name"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:76
+msgid "Client link"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:107
+msgid "Color"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:130
+msgid "Text"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:137
+msgid "Text color"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:149
+msgid "Link color"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:191
+msgid "Date"
+msgstr ""
+
+#: includes/elementor-widgets/pk-meta.php:222
+msgid "Client"
+msgstr ""
+
+#: includes/views/archive-template.php:25 includes/views/pagination.php:12
+msgid "«"
+msgstr ""
+
+#: includes/views/archive-template.php:26 includes/views/pagination.php:13
+msgid "»"
+msgstr ""
+
+#: includes/views/loop-utouch.php:50
+msgid "View Case"
+msgstr ""
+
+#: includes/views/post-navigation.php:33
+msgid "Previous Project"
+msgstr ""
+
+#: includes/views/post-navigation.php:46
+msgid "Next Project"
+msgstr ""
+
+#: portfolio-kit.php:152
+#, php-format
+msgid "%s"
+msgstr ""

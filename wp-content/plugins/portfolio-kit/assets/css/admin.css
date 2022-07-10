@@ -1,0 +1,140 @@
+.pk-warning-primary{
+    color: #fff!important;
+    border-color: #dc3545!important;
+    background: #dc3545!important;
+    box-shadow: none!important;;
+}
+/* Fields */
+.pk-meta-option{
+    padding: 20px;
+    border-top: 1px solid #ddd;
+}
+.pk-meta-option.pk-option-hide{
+    display: none;
+}
+.pk-meta-option:first-of-type{
+    border-top: none;
+}
+.pk-meta-option .pk-meta-option-title{
+    position: relative;
+    width: 20%;
+    float: left;
+}
+.pk-meta-option.pk-not-inline-opt .pk-meta-option-title{
+    width: 100%;
+    float: none;
+    margin-bottom: 15px;
+}
+.pk-meta-option .pk-meta-option-title h4{
+    margin: 0;
+    color: #23282d;
+}
+.pk-meta-option .pk-meta-option-title .pk-meta-option-descr{
+    margin-top: 6px;
+    font-weight: 400;
+    color: #999;
+}
+.pk-meta-option .pk-meta-option-fieldset{
+    float: right;
+    width: calc(80% - 20px);
+}
+.pk-meta-option.pk-not-inline-opt .pk-meta-option-fieldset{
+    width: 100%;
+    float: none;
+}
+.pk-meta-option .pk-meta-option-fieldset .pk-checkbox-option{
+    margin-bottom: 3px;
+}
+.pk-meta-option .pk-meta-option-fieldset .pk-checkbox-option input,
+.pk-meta-option .pk-meta-option-fieldset .pk-checkbox-option label{
+    vertical-align: middle;
+}
+.pk-meta-option .pk-meta-option-fieldset .pk-checkbox-option input{
+    margin-top: 0;
+}
+.pk-meta-option .pk-meta-option-fieldset .pk-text-field{
+    width: 50%;
+    max-width: 100%;
+    margin: 0;
+}
+.pk-meta-option .clear{
+    clear: both;
+}
+.pk-meta-wp-editor textarea{
+    width: 100%;
+    border: none;
+    box-shadow: none;
+}
+.pk-meta-option .pk-radio-options input{
+    vertical-align: middle;
+}
+.pk-meta-option .pk-radio-options label{
+    margin-right: 15px;
+    vertical-align: middle;
+}
+.pk-meta-option .pk-meta-gallery-images{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+.pk-meta-option .pk-meta-gallery-image{
+    position: relative;
+    margin-right: 10px;
+}
+.pk-meta-option .pk-meta-gallery-image .pk-remove-img{
+    position: absolute;
+    top: -5px;
+    right: -5px;
+    display: block;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background: #ccc;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    line-height: 12px;
+    cursor: pointer;
+    transform: rotate(45deg);
+    transition: all ease .25s;
+}
+.pk-meta-option .pk-meta-gallery-image .pk-remove-img:hover{
+    background: #333;
+}
+.pk-meta-option .pk-video-remove{
+    display: none;
+}
+.pk-meta-option .pk-video-remove.active{
+    display: inline-block;
+}
+
+/* General */
+.pk-general-settings-cont{
+    margin-top: 20px;
+    padding: 20px 25px;
+    background: #fff;
+}
+.wrap-pk-general .pk-meta-option{
+    padding: 20px 0;
+}
+
+.pk-transfer-post-type span{
+    padding: 4px 5px;
+    display: none;
+}
+.pk-transfer-post-type span.loading{
+    display: inline-block;
+    -webkit-animation: pk_spin 4s linear infinite;
+    -moz-animation: pk_spin 4s linear infinite;
+    animation: pk_spin 4s linear infinite;
+}
+.pk-saved-data{
+    margin-top: 0;
+    padding-top: 0;
+    color: #22b12d;
+}
+
+@-moz-keyframes pk_spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes pk_spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes pk_spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
